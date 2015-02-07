@@ -1,0 +1,22 @@
+body {
+	background-color: #171719;
+}
+
+#check {
+	/* ID: expander */
+	font-family: Calibri;
+	font-size: 10px;
+	color: #A33232;
+
+}
+
+#expand {
+    /* ID: expander */
+    width: 300px;
+}
+
+.bullet {
+	/* CLASS: changes the bullet style */
+	list-style-type: hiragana;
+}
+
